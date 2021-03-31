@@ -1,4 +1,4 @@
-package ru.java.sandbox;
+package ru.java.sandbox;l;l
 
 public class MyFirstProgram {
  public static void main (String[] args) {
