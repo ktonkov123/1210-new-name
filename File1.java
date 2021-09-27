@@ -8,7 +8,7 @@ public class MyFirstProgram {
 hg
 gfhfgjhgf
 fhfghfgdjj
-kjj
+kjj,kj
 ljhjjhjk2wer
 jhgfd
 рррав
