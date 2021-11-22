@@ -1,7 +1,7 @@
 package ru.java.sandbox;l;l
 
 public class MyFirstProgram {
- public static void main (String[] args) {
+ public static void main (String[] arааgs) {
    System.out.print("Hello, world");
    }
 }p[
